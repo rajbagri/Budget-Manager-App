@@ -12,7 +12,7 @@ An Android app that helps users manage their finances by tracking daily credits 
 
 | Dashboard | Transactions | Add Transaction | Budget Overview |
 |----------|--------------|------------------|-----------------|
-| ![Dashboard]() | ![Transactions](WhatsApp%20Image%202025-05-23%20at%2014.41.39_2eba9c13.jpg) | ![Add Transaction](WhatsApp%20Image%202025-05-23%20at%2014.41.39_2eba9c13.jpg) | ![Overview](WhatsApp%20Image%202025-05-23%20at%2014.41.38_e6e4756e.jpg) |
+| ![Dashboard](WhatsApp%20Image%202025-05-23%20at%2014.41.38_e6e4756e.jpg) | ![Transactions](WhatsApp%20Image%202025-05-23%20at%2014.41.39_2eba9c13.jpg) | ![Add Transaction](WhatsApp%20Image%202025-05-23%20at%2014.41.39_2eba9c13.jpg) | ![Overview](WhatsApp%20Image%202025-05-23%20at%2014.41.38_e6e4756e.jpg) |
 
 > ⚠️ Make sure to store your images inside a `screenshots/` folder in the root of your repository to ensure links work.
 
